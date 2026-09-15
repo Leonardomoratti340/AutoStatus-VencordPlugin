@@ -15,8 +15,8 @@ To use this plugin, you need to have [Vencord](https://vencord.dev/) installed.
 ### Option 1: Via Vencord User Plugins (Recommended)
 Vencord allows you to load external plugins directly if you build it from source.
 1. Clone the Vencord repository: `git clone https://github.com/Vendicated/Vencord.git`
-2. Navigate to the `src/userplugins` folder.
-3. Clone this repository inside it: `git clone https://github.com/YourUsername/AutoStatus-Vencord.git autoStatus`
+2. Navigate to the `src/plugins` folder.
+3. Clone this repository inside it: `git clone https://github.com/Leonardomoratti340/AutoStatus-Vencord.git autoStatus`
 4. Rebuild Vencord: `pnpm build`
 5. Reload Discord (`Ctrl + R`).
 
